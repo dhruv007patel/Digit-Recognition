@@ -1,2 +1,2 @@
 # Digit-Recognition
-Recognising digits using neutral network in C++
+Recognising digits using artifical neutral network in C++.
