@@ -1,3 +1,4 @@
+// Follows One-Hot Encoding Technique for Predicting Training_data.txt 
     {1,0,0,0,0,0,0,0,0,0},
     {1,0,0,0,0,0,0,0,0,0},  
     {1,0,0,0,0,0,0,0,0,0},
